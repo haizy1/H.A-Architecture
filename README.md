@@ -11,6 +11,7 @@ Here is the architecture we have proposed within the context of our project.
 
 ![architecture](img/architecture.jpg)
 
+
 **Technologies** :
 ![tools](img/outils.png)
 -Firewall ( **Fortigate 7.0.0**)<br>
@@ -25,7 +26,7 @@ Here is the architecture we have proposed within the context of our project.
 
 **Tools** :
 <div style="text-align:center">
-  <img src="img/gns3.png" width="150" style="margin-right: 20px;" />
+  <img src="img/gns3.png" width="150" style="margin-right: 50px;" />
   <img src="img/vmware.png" width="150" />
 </div>
 
